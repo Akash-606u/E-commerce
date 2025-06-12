@@ -2,7 +2,7 @@
 import { FaHeadset, FaLock, FaMoneyBillWave, FaShippingFast, FaTag } from 'react-icons/fa'
 
 
-const infosection = () => {
+const InfoSection = () => {
     const infoItems = [
         {
          icon: <FaShippingFast className='text-3xl text-red-600'/>,
@@ -47,4 +47,4 @@ const infosection = () => {
   )
 }
 
-export default infosection
+export default InfoSection

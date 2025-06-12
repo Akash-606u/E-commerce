@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { Categories, mockData } from '../assets/MockData'
 import heropage from '../assets/images/heropage.jpg'
-import InfoSection from '../Components/infosection'
+import InfoSection from '../Components/InfoSection'
 import CategorySection from '../Components/CategorySection'
 import { setProduts } from '../redux/productSlice'
 import { useDispatch, useSelector } from 'react-redux'

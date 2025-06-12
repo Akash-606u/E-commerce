@@ -1,4 +1,4 @@
-import React from 'react'
+
 import ManCategory from '../assets/images/Man.jpg'
 import WomenCategory from '../assets/images/women.jpg'
 import kidsCategory from '../assets/images/kids.jpg'
